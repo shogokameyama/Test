@@ -16,5 +16,6 @@ def main():
     print('Hello3')
 
     a = 2
+    b = a * 2
 if __name__ == '__main__':
     main()
