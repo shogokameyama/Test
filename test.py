@@ -14,6 +14,7 @@ def main():
     print('Hello')
     print('Hello2')
     print('Hello3')
+    print('Hello4')
 
     a = 2
     b = a * 2
